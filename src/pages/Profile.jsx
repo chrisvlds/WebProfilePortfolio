@@ -33,7 +33,7 @@ export default function Profile() {
         <Flex justifyContent="center">
           <List p="20px">
             <ListItem>
-              <Avatar size={{ base: '3xl' }} name='Christian Valdes' src="/img/me.PNG" />
+              <Avatar size={{ base: '3xl' }} name='Christian Valdes' src="/img/profile.png" />
             </ListItem>
             <ListItem paddingTop="40px" paddingLeft='15px' paddingBottom='10px'>
               <Text as='u' color="grey" fontSize='sm'>
