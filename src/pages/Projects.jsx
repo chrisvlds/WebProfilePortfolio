@@ -9,7 +9,7 @@ import {
 
 export default function Projects() {
   return (
-    <Tabs mt="40px" p="20px" colorScheme="green" variant="enclosed">
+    <Tabs mt="40px" p="20px" colorScheme="green" variant="enclosed" minHeight="100vh">
       <TabList>
         <Tab _selected={{ color: 'white', bg: 'green.400' }}>Project 1</Tab>
         <Tab _selected={{ color: 'white', bg: 'green.400' }}>Project 2</Tab>

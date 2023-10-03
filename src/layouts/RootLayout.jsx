@@ -6,7 +6,7 @@ import Navbar from "../components/Navbar"
 export default function RootLayout() {
   return (
     <Grid
-      templateRows="repeat(14, 1fr)"
+      templateRows="repeat(14, 1fr, 50px)"
       templateColumns="repeat(6, 1fr)"
     >
       <GridItem
