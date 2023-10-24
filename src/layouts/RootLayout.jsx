@@ -10,7 +10,6 @@ export default function RootLayout() {
       templateColumns="repeat(6, 1fr)"
     >
       <GridItem
-        //rowSpan={{base: 9, lg: 2, xl: 1}}
         rowSpan={1}
         colSpan={6}
         bg="green.300"
